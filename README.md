@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋, I'm Shrey Niraula
 
-<!--
-**ShreyNiraula/ShreyNiraula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a Student who is ML and web development enthusiast
 
-Here are some ideas to get you started:
+- 🔔 My portfolio website coming soon !!
+- 🔭 I’m currently working on Major Project focused on navigation and localization of mobile robot on dynamic environment
+- 🌱 I’m currently also working on web based mini fun projects
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: ... -->
+- 😄 Proud thing: I can speak and understand **Japanese**. I Can understand anime without subtitle 😜
+- ⚡ Fun fact: Photography is now my hobby. 
+
+
+### Connect me with:
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/shrey-niraula-27947b189/)
+[<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook](https://www.facebook.com/shrey.niraula.14)
+[<img align="left" alt="facebook" width="22px" src="https://simpleicon.com/wp-content/uploads/mail-5.png" />][facebook](mailto:nshrey53@gmail.com)
+
+
+
