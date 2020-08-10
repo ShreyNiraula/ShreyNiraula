@@ -14,9 +14,9 @@
 
 
 ### Connect me with:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/shrey-niraula-27947b189/)
-[<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook](https://www.facebook.com/shrey.niraula.14)
-[<img align="left" alt="facebook" width="22px" src="https://simpleicon.com/wp-content/uploads/mail-5.png" />][facebook](mailto:nshrey53@gmail.com)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href='https://www.linkedin.com/in/shrey-niraula-27947b189/'/>]
+[<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" href='https://www.facebook.com/shrey.niraula.14'/>]
+[<img align="left" alt="facebook" width="22px" src="https://simpleicon.com/wp-content/uploads/mail-5.png" href='mailto:nshrey53@gmail.com'/>]
 
 
 
