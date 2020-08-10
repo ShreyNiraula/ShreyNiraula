@@ -8,12 +8,11 @@
 - 😄 Proud thing: I can speak and understand **Japanese**. I Can understand anime without subtitle 😜
 - ⚡ Fun fact: Photography is now my hobby. 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShreyNiraula)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShreyNiraula&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+![Github stats](https://github-readme-stats.vercel.app/api?username=ShreyNiraula&hide=stars,prs&count_private=true&&show_icons=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyNiraula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyNiraula)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyNiraula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyNiraula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 ### Connect me with:
@@ -28,5 +27,3 @@
 [gmail]: nshrey53@gmail.com
 
 ---
-
-
