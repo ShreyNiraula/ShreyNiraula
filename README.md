@@ -1,12 +1,12 @@
-## Hi there 👋, I'm Shrey Niraula
+## Hi there 👋, I'm Shrey Niraula. (こんにちは、ニラウラスレーヤです。）
 
 ### I am a Student at Pulchowk Campus who is ML and Web enthusiast
 
 - 🔔 My portfolio website coming soon !!
 - 🏢 I’m currently working on Major Project focused on navigation and localization of mobile robot on dynamic environment
-- 📝 I’m currently also working on web based mini fun projects.
-- 😄 Proud thing: I can speak and understand **Japanese**. I Can understand anime without subtitle 😎
-- ⚡ Fun fact: Photography is now my hobby. 
+- 📝  I’m currently also working on web based mini fun projects.
+- 📺 I can speak and understand **Japanese**. I Can understand anime without subtitle 😎
+- 📷 Currently has interest in photography 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ShreyNiraula&hide=stars,prs&count_private=true&&show_icons=true&include_all_commits=true)
 
