@@ -2,11 +2,11 @@
 
 ### I am a Student at Pulchowk Campus who is ML and Web enthusiast
 
-- 🔔 My portfolio website coming soon !!
-- 🏢 I’m currently working on Major Project focused on navigation and localization of mobile robot on dynamic environment
-- 📝  I’m currently also working on web based mini fun projects.
-- 📺 I can speak and understand **Japanese**. I Can understand anime without subtitle 😎
-- 📷 Currently has interest in photography 
+- 🔔 Visit My portfolio website at https://shreyniraula.com.np
+- 🏢 I’m currently working as Associate Data Engineer 
+- 📝 Completed the Bachelors in Electronics and Communication Engineering from Pulchowk Engineering Campus
+- 📺 I can speak and understand **Japanese**
+- 📷 Interests in photography 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ShreyNiraula&hide=stars,prs&count_private=true&&show_icons=true&include_all_commits=true)
 
