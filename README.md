@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Shrey Niraula. (こんにちは、ニラウラスレーヤです。）
 
-### I am a Student at Pulchowk Campus who is ML and Web enthusiast
-
 - 🔔 Visit My portfolio website at https://shreyniraula.com.np
 - 🏢 I’m currently working as Associate Data Engineer 
 - 📝 Completed the Bachelors in Electronics and Communication Engineering from Pulchowk Engineering Campus
