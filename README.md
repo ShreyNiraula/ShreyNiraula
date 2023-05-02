@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Shrey Niraula. (こんにちは、ニラウラスレーヤです。）
 
 - 🔔 Visit My portfolio website at https://shreyniraula.com.np
-- 🏢 I’m currently working as Associate Data Engineer 
+- 🏢 I’m currently working as Data Engineer 
 - 📝 Completed the Bachelors in Electronics and Communication Engineering from Pulchowk Engineering Campus
 - 📺 I can speak and understand **Japanese**
 - 📷 Interests in photography 
