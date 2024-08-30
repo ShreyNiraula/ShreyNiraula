@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Shrey Niraula. (こんにちは、ニラウラスレーヤです。）
 
 - 🔔 Visit My portfolio website at https://shreyniraula.com.np
-- 🏢 I’m currently working as Data Engineer 
-- 📝 Completed the Bachelors in Electronics and Communication Engineering from Pulchowk Engineering Campus
-- 📺 I can speak and understand **Japanese**
-- 📷 Interests in photography 
+- 🏢 Experienced Data Engineer 
+- 📝 Pursuing Master's in Computer Science
+- 📝 Bachelors in Electronics and Communication Engineering from Pulchowk Engineering Campus
+- 📺 I can speak and understand **Japanese** 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ShreyNiraula&hide=stars,prs&count_private=true&&show_icons=true&include_all_commits=true)
 
