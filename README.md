@@ -6,7 +6,6 @@
 - 📝 Bachelor's in Electronics and Communication Engineering from Pulchowk Engineering Campus (4th Rank)
 - 📺 I am fluent in **Japanese** (N2-certified)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ShreyNiraula&hide=stars,prs&count_private=true&&show_icons=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyNiraula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
