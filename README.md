@@ -7,9 +7,6 @@
 - 📺 I am fluent in **Japanese** (N2-certified)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyNiraula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
-
 ### Connect me with:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
