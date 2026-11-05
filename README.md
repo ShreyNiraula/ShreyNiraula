@@ -1,15 +1,13 @@
-## Hi there 👋, I'm Shrey. (こんにちは、スレーヤです。）
+## Hi there 👋, I'm Shrey (こんにちは、スレーヤです。)
 
-- 🔔 My portfolio: https://shreyniraula.com.np
-- 🏢 5+ years as a Data Engineer 
-- 📝 Master's in Computer Science (Data Science Concentration: GPA 4.0)
-- 📝 Bachelor's in Electronics and Communication Engineering from Pulchowk Engineering Campus (4th Rank)
-- 📺 I am fluent in **Japanese** (N2-certified)
+Data Engineer with 5+ years of experience building data pipelines and platforms.
 
+- 🎓 Master's in Computer Science, Data Science concentration (GPA 4.0)
+- 🎓 Bachelor's in Electronics and Communication Engineering, Pulchowk Engineering Campus (4th rank)
+- 🇯🇵 Fluent in **Japanese** (JLPT N2)
+- 🌐 Portfolio: [shreyniraula.com.np](https://shreyniraula.com.np)
 
-### Connect me with:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Connect with me
 
-
-<!-- variable for website -->
-[linkedin]: https://www.linkedin.com/in/shrey-niraula-27947b189/
+[![Portfolio](https://img.shields.io/badge/Portfolio-shreyniraula.com.np-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shreyniraula.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shrey%20Niraula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrey-niraula-27947b189/)
